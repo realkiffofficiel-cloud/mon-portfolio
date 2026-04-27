@@ -33,7 +33,7 @@ export default function Home() {
         <h2 style={{fontSize:36,fontWeight:800,marginBottom:48}}>Mes Projets</h2>
         <div style={{display:"grid",gridTemplateColumns:"repeat(auto-fit,minmax(280px,1fr))",gap:16}}>
           {[
-            {nom:"SOPAKI",desc:"Application mobile de livraison d'eau avec système de parrainage multi-niveaux",lien:"https://frontend-six-steel-61.vercel.app",tag:"App Mobile"},
+            {nom:"SOPAKI",desc:"Site web de livraison d'eau avec système de parrainage multi-niveaux",lien:"https://sopaki.vercel.app",tag:"Web"},
             {nom:"Chevy Space",desc:"Site web moderne et dynamique",lien:"https://space-chevy-wbyc.vercel.app",tag:"Web"},
             {nom:"Lili's Dreadshouse",desc:"Identité visuelle et présence en ligne",lien:"https://rmch-2-dreads.vercel.app",tag:"Design"},
             {nom:"Real Modula",desc:"Site vitrine professionnel",lien:"https://rmch-site.vercel.app",tag:"Web"},
